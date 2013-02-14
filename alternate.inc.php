@@ -8,3 +8,4 @@
  * Include only this file, to have the full functions.
  */
 include_once(dirname(__FILE__)."/phpFunctions.php");
+include_once(dirname(__FILE__)."/newFunctions.php");
